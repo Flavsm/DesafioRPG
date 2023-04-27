@@ -1,0 +1,18 @@
+2023-04-26 12:39:42 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]HEROES"; expected "HELP"; SQL statement:
+HEROES [42001-214]
+2023-04-26 12:39:46 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]HERO"; expected "HELP"; SQL statement:
+HERO [42001-214]
+2023-04-26 12:39:51 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]HERO"; expected "HELP"; SQL statement:
+HERO [42001-214]
+2023-04-26 12:39:52 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]MONSTERS"; expected "MERGE"; SQL statement:
+MONSTERS [42001-214]
+2023-04-26 18:28:06 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]MONSTER"; expected "MERGE"; SQL statement:
+MONSTER [42001-214]
+2023-04-26 18:28:12 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]PLAYER"; expected "PREPARE"; SQL statement:
+PLAYER [42001-214]

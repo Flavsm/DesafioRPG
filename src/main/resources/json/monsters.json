@@ -1,0 +1,32 @@
+ [
+    {
+      "id": 1,
+      "name": "Orc",
+      "health": 42,
+      "strength": 7,
+      "defense": 1,
+      "agility": 2,
+      "diceQuantity": 3,
+      "diceFaces": 4
+    },
+    {
+      "id": 2,
+      "name": "Gigante",
+      "health": 34,
+      "strength": 10,
+      "defense": 4,
+      "agility": 4,
+      "diceQuantity": 2,
+      "diceFaces": 6
+    },
+    {
+      "id": 3,
+      "name": "Lobisomen",
+      "health": 34,
+      "strength": 7,
+      "defense": 4,
+      "agility": 7,
+      "diceQuantity": 2,
+      "diceFaces": 4
+    }
+  ]

@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "name": "Guerreiro",
+      "health": 20,
+      "strength": 7,
+      "defense": 5,
+      "agility": 6,
+      "diceQuantity": 1,
+      "diceFaces": 12
+    },
+    {
+      "id": 2,
+      "name": "Bárbaro",
+      "health": 21,
+      "strength": 10,
+      "defense": 2,
+      "agility": 5,
+      "diceQuantity": 2,
+      "diceFaces": 8
+    },
+    {
+      "id": 3,
+      "name": "Cavaleiro",
+      "health": 26,
+      "strength": 6,
+      "defense": 8,
+      "agility": 3,
+      "diceQuantity": 2,
+      "diceFaces": 6
+    }
+  ]
