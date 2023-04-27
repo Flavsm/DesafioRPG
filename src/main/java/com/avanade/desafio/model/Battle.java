@@ -24,6 +24,10 @@ public class Battle implements Serializable {
     private String player_1;
     @Column ( name = "PLAYER_2", nullable = false)
     private String player_2;
+    @Column( name = "ID", nullable = false)
+    private Long player_1_ID;
+    @Column( name = "ID", nullable = false)
+    private Long player_2_ID;
 //    @Column ( name = "FIRST_MOVE", nullable = false)
 //    private String firstMove;
 //    @Column ( name = "TURNS", nullable = false)
